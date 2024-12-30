@@ -4,8 +4,8 @@
 
 <!-- Logo with a clickable link -->
 <p align="center">
-  <a href="https://github.com/NaveenEkanayake/Imagify-AI-Image-Generator-">
-    <img src="https://github.com/NaveenEkanayake/Imagify-AI-Image-Generator-/blob/master/client/src/assets/images/logo.svg" alt="AI Image Generator Logo" width="50%">
+  <a href="https://github.com/NaveenEkanayake/LOGORA-AI-Image-Generator/blob/master/client/src/assets/images/logo.png">
+    <img src="https://github.com/NaveenEkanayake/LOGORA-AI-Image-Generator/blob/master/client/src/assets/images/logo.png" alt="AI Image Generator Logo" width="50%">
   </a>
 </p>
 
