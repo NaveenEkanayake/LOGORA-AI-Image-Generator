@@ -33,4 +33,4 @@ The **AI Image Generator** is a web application designed to convert text into im
 To run the project locally, begin by cloning the repository using the following command:
 
 ```bash
-git clone https://github.com/NaveenEkanayake/Imagify-AI-Image-Generator-.git
+git clone https://github.com/NaveenEkanayake/LOGORA-AI-Image-Generator.git
